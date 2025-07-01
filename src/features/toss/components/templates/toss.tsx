@@ -1,7 +1,7 @@
 const Toss = () => {
     return (
         <div>
-            <h1>Toss</h1>
+            <h1>TossTest</h1>
         </div>
     )
 }
